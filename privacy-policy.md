@@ -1,8 +1,8 @@
 # Privacy Policy for Workout Snack
 
-Effective Date: [Month Day, Year]
+Effective Date: 10/01/2025
 
-Workout Snack ("the App") is developed and operated by [Your Name / Company].  
+Workout Snack ("the App") is developed and operated by Jacob Bonnan.  
 Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect information when you use our App.
 
 ## Information We Collect
