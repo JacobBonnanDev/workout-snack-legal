@@ -29,8 +29,8 @@ Your privacy is very important to us. This Privacy Policy explains how we collec
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:  
-**[Your Name]**  
-Email: **[your@email.com]**
+**Jacob Bonnan**  
+Email: **jacobbonnandev@gmail.com**
 
 ---
 
